@@ -27,6 +27,7 @@ namespace IPalgor
         }
         static void Main(string[] args)
         {
+            // test Ip here
             bool result = valid_ip("192.0.2.146");
             Console.WriteLine(result);
             Console.ReadLine();
